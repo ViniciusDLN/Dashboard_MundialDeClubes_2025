@@ -1,4 +1,4 @@
-![Visão geral do Dashboard de Futebol](<https://imgur.com/a/yZxp7YD>)
+![Visão geral do Dashboard de Futebol](./images/Chelsea.png)
 
 **Dashboard de Análise do Mundial de Clubes 2025**
 
